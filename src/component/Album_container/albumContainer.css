@@ -1,0 +1,8 @@
+.album_container {
+  background-color: rgb(247, 247, 247);
+  height: 1400px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding-left: 100px;
+  padding-top: 50px;
+}

@@ -1,0 +1,12 @@
+.header {
+  background-color: black;
+  height: 50px;
+  color: white;
+  padding: 15px 0px 0px 60px;
+}
+
+.header span {
+  margin-left: 10px;
+  font-size: 25px;
+  font-weight: bolder;
+}
